@@ -1,0 +1,4 @@
+document.write("<h1> About Roman </h1>");
+document.write("<p>Abramovich is the primary owner of the private investment company, Millhouse LLC. Abramovich is best known outside of Russia as the owner of Chelsea Football Club, an English Premier League football team.</p>");
+document.write("<p>Abramovich started his multibillion-dollar business during his army service.[4] After a brief stint in the Soviet Army, Abramovich married his first wife, Olga. Abramovich first worked as a street-trader and then as a mechanic at a local factory.[5] At the peak of perestroika, Abramovich sold imported rubber ducks from his Moscow apartment. </p>");
+document.write("<p>According to Forbes, Abramovich's net worth in 2015 was US$ 7.8 billion (2015) making him the 12th richest person in Russia, and the 137th richest person in the world.</p>");
